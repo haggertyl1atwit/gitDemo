@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Test 1</Text>
-        <Text>Test 2</Text>
+        <Text>Noah is still made of poop</Text>
         <Text>Test 3</Text>
         <Text>Test 4</Text>
       </View>
