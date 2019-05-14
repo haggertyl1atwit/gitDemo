@@ -4,8 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default class App extends React.Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text>Test 1</Text>
+      <View style={styles.container}
+        <Text>tee hee</Text>
         <Text>NIMOP</Text>
         <Text>Test 3</Text>
         <Text>Test 4</Text>
